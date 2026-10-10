@@ -2202,8 +2202,6 @@ PRODUCT_PACKAGES += \
     android.hardware.neuralnetworks@1.3-service-mtk-gpu \
     android.hardware.sensors@2.0-multihal \
     android.hardware.usb@1.3-service.coral \
-    android.hardware.wifi.hostapd \
-    android.hardware.wifi.supplicant \
     android.hardware.wifi@1.0-service \
     deviceManifest \
     engmode_manifest \
